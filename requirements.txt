@@ -1,0 +1,4 @@
+statsmodels
+matplotlib
+pandas
+numpy
