@@ -2,3 +2,4 @@ statsmodels
 matplotlib
 pandas
 numpy
+xlrd
